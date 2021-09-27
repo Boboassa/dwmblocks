@@ -2,6 +2,7 @@
  * and recompile using the make command. */
 static const Block blocks[] = {
 /* Icon      Command                                      Interval     Signal*/
+    { "",     "$HOME/.local/bin/dwmblocks/db-wifi",        10,          6, },
     { "",     "$HOME/.local/bin/dwmblocks/db-battery",     0,           7, },
     { "",     "$HOME/.local/bin/dwmblocks/db-backlight",   0,           8, },
     { "",     "$HOME/.local/bin/dwmblocks/db-volume",      0,           9, },
