@@ -2,6 +2,11 @@
 
 dwmblocks - the modular status bar for dwm written in c.
 
+There are 3 branches:
+- `master` is for general changes
+- `laptop` is my laptop's build
+- `desktop` is my desktop's build
+
 ## Requirements
 
 In order to make the bar work correctly you need the scripts that I use
@@ -9,7 +14,8 @@ In order to make the bar work correctly you need the scripts that I use
 
 ## Installation
 
-Enter the following command to build and install dwmblocks (if
+Clone the repository, switch to the appropriate branch and then enter the
+following command to build and install dwmblocks (if
 necessary as root):
 
 ```
